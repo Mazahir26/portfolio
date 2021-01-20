@@ -27,11 +27,11 @@ module.exports = {
         name: `Gatsby Website`,
         short_name: `Website`,
         start_url: `/`,
-        background_color: `#fff`,
+        background_color: `#777`,
         theme_color: `#02aab0`,
         display: `standalone`,
-        icon: 'src/images/favicon.png',
       },
     },
   ],
 };
+/* "deploy": "gatsby build --prefix-paths && gh-pages -d public", */

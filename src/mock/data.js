@@ -17,7 +17,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'My_profile.jpg',
+  img: 'My_profile.png',
   paragraphOne:
     'Experienced mobile app developer who has a track record of success creating apps that are both well-received and commercially viable. Skilled with working as a team and incorporating input into projects. Ability to always look for ways to improve upon an already existing app to keep people downloading it and enjoying it. Strong eye for detail and tenacity to never quit on something until it is absolutely perfect.',
   paragraphTwo:
@@ -34,7 +34,7 @@ export const projectsData = [
     img: 'project_2.png',
     title: 'Harry Potter App',
     info:
-      'Its a Simple react-native application where you can find all your favourite Harry Potter characters from books and movies (ad free)',
+      'Its a Simple react-native application where you can find all your favourite Harry Potter characters from books and movies (ad free).',
     info2: 'Its Free and Open Souced',
     url: 'https://github.com/Mazahir26/HarryPotter',
     repo: 'https://github.com/Mazahir26/HarryPotter', // if no repo, the button will not show up
