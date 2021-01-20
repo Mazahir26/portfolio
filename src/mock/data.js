@@ -76,6 +76,11 @@ export const footerData = {
       name: 'instagram',
       url: 'https://www.instagram.com/_._coco_bean_._/',
     },
+    {
+      id: nanoid(),
+      name: 'telegram',
+      url: 'https://t.me/mazahir26',
+    },
   ],
 };
 
