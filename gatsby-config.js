@@ -34,4 +34,6 @@ module.exports = {
     },
   ],
 };
-/* "deploy": "gatsby build --prefix-paths && gh-pages -d public", */
+/* "deploy": "gatsby build --prefix-paths && gh-pages -d public",
+"develop": "gatsby develop",
+ */
