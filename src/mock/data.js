@@ -31,6 +31,16 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
+    img: 'project_3.png',
+    title: 'Reminder-App',
+    info:
+      'A Expo and React-Native Application with Notification Support, its a Reminder app that will help you to forget nothing (ad free).',
+    info2: 'Its Free and Open Souced',
+    url: 'https://github.com/Mazahir26/Reminder-App/releases',
+    repo: 'https://github.com/Mazahir26/Reminder-App', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'project_2.png',
     title: 'Harry Potter App',
     info:
